@@ -10,7 +10,9 @@
 :guitar: Musician in my spare time, check out my band's songs on Spotify!
 <a href="https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe?si=SKPOM9gzRpWGZxyobAnr-A"> Click here! </a>
 
+
+Feel free to contact me, it's always nice to chat and meet new people!
 <a href="https://www.linkedin.com/in/lucas-costa-pauli" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp;
+</a> &nbsp;
 
