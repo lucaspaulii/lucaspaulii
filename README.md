@@ -6,7 +6,7 @@
 - CSS :white_check_mark:
 - Javascript :white_check_mark:
 - Typescript :white_check_mark:
-- React :white_check_mark:
+- React.js :white_check_mark:
 - Node.js :white_check_mark:
 - Express :white_check_mark:
 - Mongodb :white_check_mark:
