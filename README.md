@@ -5,9 +5,12 @@
 - HTML :white_check_mark:
 - CSS :white_check_mark:
 - Javascript :white_check_mark:
+- Typescript :white_check_mark:
 - React :white_check_mark:
 - Node.js :white_check_mark:
+- Express :white_check_mark:
 - Mongodb :white_check_mark:
+- PostgreSQL :white_check_mark:
 
 :guitar: Musician in my spare time, check out my band's songs on Spotify!
 <a href="https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe?si=SKPOM9gzRpWGZxyobAnr-A"> Click here! </a>
